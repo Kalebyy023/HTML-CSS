@@ -41,4 +41,13 @@ h1{
     font-family: initial;
     cursor: pointer;
 }
+img{
+    border-radius: 100%;
+    margin-left: 150px;
+    width: 190px;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+}
 
